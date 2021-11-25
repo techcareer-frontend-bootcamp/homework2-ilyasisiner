@@ -43,7 +43,7 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   overflow: hidden;
-  background-image: url(/assets/img/background.jpg);
+  background-image: url(../img/background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
